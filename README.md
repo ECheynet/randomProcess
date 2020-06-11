@@ -18,4 +18,4 @@ Any question, suggestion or comment is welcome.
 
 ## Example
 
-![Active, recoverd and deceased cases in italy](illustration.jpg)
+![Comparison between the target and estimated power-spectral density for turbulence data](illustration.jpg)
