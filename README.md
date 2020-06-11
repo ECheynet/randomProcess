@@ -11,4 +11,4 @@ The present submission contains:
  - An example file Documentation.mlx, which illustrates the generation of the random process using the case of atmospheric turbulence
 - The function getSamplingPara.m, which computes the target frequency vector and the associated time vector.
 
-Any question, suggestion pr comment is welcome.
+Any question, suggestion or comment is welcome.
