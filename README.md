@@ -1,6 +1,8 @@
 # randomProcess
 Minimalist Matlab implementation of a random process generation in one point
 
+[![View One-point random process generation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/76854-one-point-random-process-generation)
+
 ## Summary
 A stationary Gaussian random process is generated using the spectral method. This means that the function requires only two inputs: the target power spectral density (PSD) and the associated frequency vector.
 
