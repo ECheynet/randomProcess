@@ -15,3 +15,7 @@ The present submission contains:
 - The function getSamplingPara.m, which computes the target frequency vector and the associated time vector.
 
 Any question, suggestion or comment is welcome.
+
+## Example
+
+![Active, recoverd and deceased cases in italy](illustration.jpg)
