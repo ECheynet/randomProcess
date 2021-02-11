@@ -1,4 +1,4 @@
-# randomProcess
+# One-point random process generation
 Minimalist Matlab implementation of a random process generation in one point
 
 [![View One-point random process generation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/76854-one-point-random-process-generation)
